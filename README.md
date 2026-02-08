@@ -7,13 +7,12 @@ The objective of this assignment is to build and evaluate multiple machine learn
 ---
 
 ## b. Dataset Description
-The dataset (Occupancy Detection) used in this project contains labeled data suitable for a supervised classification task.
-It includes multiple input features (independent variables) collected from environmental sensors and one target variable (dependent variable) indicating room occupancy.
-
+The dataset (Breast Cancer Wisconsin – Original) used in this project contains labeled data suitable for a supervised classification task.
+It includes multiple input features derived from digitized images of fine needle aspirates (FNA) of breast masses and one target variable indicating the type of tumor.
 **Dataset Details:**
-- Number of instances: 20560
-- Number of features: 6
-- Target variable: Occupancy (0:Not Occupied, 1: Occupied)
+- Number of instances: 699
+- Number of features: 9
+- Target variable: Class (2: Benign,4: Malignant)
 - Type of problem: Binary classification
 - Source of dataset: UCI Machine Learning Repository
 
